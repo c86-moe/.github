@@ -1,4 +1,4 @@
-## Hi there 👋 You are not at the wrong place ♪~
+## Hi there 👋 You are NOT at the wrong place ♪~
 
 [![←DIVERSION](https://raw.githubusercontent.com/c86-moe/.github/main/Diversion.png)](https://github.com/C8620)
 
